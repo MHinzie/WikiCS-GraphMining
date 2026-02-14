@@ -1,7 +1,5 @@
 # WikiCS-GraphMining
 
-Since you want it to sound like you—grounded in the data we actually found—here is a professional but straightforward README you can use. You can copy-paste this directly into a file named README.md in your GitHub repo.
-
 WikiCS Article Classification
 This project uses the WikiCS dataset to explore how we can use graph data to categorize Wikipedia articles. It's a collection of about 11,000 articles related to Computer Science, where the "links" are actual hyperlinks between pages.
 
