@@ -3,9 +3,9 @@
 > **Can graph structure improve node classification on Wikipedia articles?**  
 > A graph mining and GNN study using the WikiCS benchmark dataset.
 
-👉 **Start here: [main_notebook.ipynb](527004066_Project (1).ipynb)**
+👉 **Start here: [main_notebook.ipynb](main_notebook.ipynb)**
 
-🎥 **[Project Video](#)** ← *(paste your video link here)*
+🎥 **[Project Video](https://www.youtube.com/watch?v=flj21zK8mMs))*
 
 ---
 
