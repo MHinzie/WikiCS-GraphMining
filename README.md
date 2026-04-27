@@ -80,7 +80,7 @@ WikiCS-GraphMining/
 This project was built and run in **Google Colab**.
 
 1. Open `main_notebook.ipynb` in Colab (or clone the repo and open locally)
-2. Run all cells in order — the dataset downloads automatically via `torch_geometric`
+2. Run all cells in order, the dataset downloads via `torch_geometric`
 3. No GPU required, but Colab's free T4 speeds things up
 
 To install dependencies locally:
