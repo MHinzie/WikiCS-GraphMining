@@ -95,11 +95,11 @@ pip install -r requirements.txt
 | Package | Version |
 |---------|---------|
 | Python | 3.12 |
-| torch | 2.x |
-| torch_geometric | 2.x |
-| scikit-learn | 1.x |
-| networkx | 3.x |
-| matplotlib | 3.x |
+| torch | 2.10.0+cpu |
+| torch_geometric | 2.7.0 |
+| scikit-learn | 1.6.1 |
+| networkx | 3.6.1 |
+| matplotlib | 3.10 |
 
 Full dependency list with pinned versions: see [`requirements.txt`](requirements.txt)
 
