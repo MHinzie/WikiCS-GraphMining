@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 | Package | Version |
 |---------|---------|
-| Python | 3.11 |
+| Python | 3.12 |
 | torch | 2.x |
 | torch_geometric | 2.x |
 | scikit-learn | 1.x |
