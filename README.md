@@ -68,9 +68,9 @@ WikiCS-GraphMining/
 ├── main_notebook.ipynb          ← Main deliverable (start here!)
 ├── requirements.txt             ← Full Colab environment snapshot
 ├── README.md
-│
-├── checkpoint_1.ipynb       ← Dataset selection & EDA
-└── checkpoint_2.ipynb       ← Research question formation & feasibility
+│--Checkpoints
+--├── checkpoint_1.ipynb       ← Dataset selection & EDA
+  └── checkpoint_2.ipynb       ← Research question formation & feasibility
 ```
 
 ---
